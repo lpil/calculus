@@ -1,0 +1,7 @@
+*.log
+.node_repl_history
+.npm
+_build
+logs
+node_modules
+npm-debug.log*

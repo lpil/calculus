@@ -1,4 +1,4 @@
-import lib = require('./lib');
+import lib from './lib';
 
 function say(word: string) {
   console.log(word);
